@@ -16157,5 +16157,18 @@
     "start_date_local": "2026-03-06T05:02:26",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 22578.44921875,
+    "elevation_gain": 141.95999997854233,
+    "id": "22091298765",
+    "moving_time": 7095.342010498047,
+    "name": "DeLand Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-07T05:35:01",
+    "type": "Run",
+    "year": 2026
   }
 ]
