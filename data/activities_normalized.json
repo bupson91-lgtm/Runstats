@@ -16170,5 +16170,18 @@
     "start_date_local": "2026-03-07T05:35:01",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 14747.76953125,
+    "elevation_gain": 40.5799999833107,
+    "id": "22102303985",
+    "moving_time": 4570.915008544922,
+    "name": "Lake County Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-08T06:36:51",
+    "type": "Run",
+    "year": 2026
   }
 ]
