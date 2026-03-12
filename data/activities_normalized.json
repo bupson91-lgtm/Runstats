@@ -16196,5 +16196,18 @@
     "start_date_local": "2026-03-10T04:46:25",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 11753.3701171875,
+    "elevation_gain": 71.68000000715256,
+    "id": "22147247740",
+    "moving_time": 4044.3839721679688,
+    "name": "Deltona Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-12T05:16:03",
+    "type": "Run",
+    "year": 2026
   }
 ]
