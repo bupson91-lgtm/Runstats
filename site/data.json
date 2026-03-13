@@ -8728,6 +8728,20 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 12,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19219,12 +19233,22 @@
         },
         "2026-03-12": {
           "activity_ids": [
-            "22147247740"
+            "22147247740",
+            "22150979601"
+          ],
+          "count": 2,
+          "distance": 19824.14990234375,
+          "elevation_gain": 131.60000002384186,
+          "moving_time": 6593.095977783203
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "22157867745"
           ],
           "count": 1,
-          "distance": 11753.3701171875,
-          "elevation_gain": 71.68000000715256,
-          "moving_time": 4044.3839721679688
+          "distance": 14900.669921875,
+          "elevation_gain": 83.25999999046326,
+          "moving_time": 4578.127014160156
         }
       },
       "Walk": {
@@ -19325,7 +19349,7 @@
       }
     }
   },
-  "generated_at": "2026-03-12T15:49:10.419532+00:00",
+  "generated_at": "2026-03-13T15:34:34.532921+00:00",
   "other_bucket": "OtherSports",
   "repo": "bupson91-lgtm/Runstats",
   "source": "garmin",
