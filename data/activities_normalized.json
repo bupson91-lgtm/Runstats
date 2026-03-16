@@ -16261,5 +16261,18 @@
     "start_date_local": "2026-03-15T07:15:53",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 9886.5,
+    "elevation_gain": 47.74000000953674,
+    "id": "22189706250",
+    "moving_time": 3061.7210083007812,
+    "name": "Lake Helen - Base",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-16T04:49:06",
+    "type": "Run",
+    "year": 2026
   }
 ]
