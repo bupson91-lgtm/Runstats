@@ -16274,5 +16274,18 @@
     "start_date_local": "2026-03-16T04:49:06",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 12905.080078125,
+    "elevation_gain": 45.639999985694885,
+    "id": "22200693869",
+    "moving_time": 3868.583984375,
+    "name": "Lake Helen Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-17T04:48:00",
+    "type": "Run",
+    "year": 2026
   }
 ]
